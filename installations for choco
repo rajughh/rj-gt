@@ -1,0 +1,12 @@
+choco install puppet-agent.portable -y
+choco install ruby.portable -y
+choco install git.commandline -y
+
+# pick an editor
+#choco install visualstudiocode.portable -y # not yet available
+choco install notepadplusplus.commandline -y
+#choco install nano -y
+#choco install vim-tux.portable
+
+# What else can I install without admin rights?
+# https://community.chocolatey.org/packages?q=id%3Aportable
